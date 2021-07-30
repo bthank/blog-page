@@ -10,6 +10,7 @@ body {
 }
 body {
   font-family: "Montserrat", sans-serif;
+  background-color: bisque;
 }
 
 h1 {
@@ -31,7 +32,7 @@ h6 {
 
 .container {
   width: 900px;
-  margin: 120px 120px 120px 120px;
+  margin: 120px auto;
 }
 .header_section {
   width: 100%;
